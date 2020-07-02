@@ -1,0 +1,12 @@
+C:\VisualStudio Projects\SavingsAccountBalance\SavingsAccountBalance\bin\Debug\netcoreapp3.1\SavingsAccountBalance.exe
+C:\VisualStudio Projects\SavingsAccountBalance\SavingsAccountBalance\bin\Debug\netcoreapp3.1\SavingsAccountBalance.deps.json
+C:\VisualStudio Projects\SavingsAccountBalance\SavingsAccountBalance\bin\Debug\netcoreapp3.1\SavingsAccountBalance.runtimeconfig.json
+C:\VisualStudio Projects\SavingsAccountBalance\SavingsAccountBalance\bin\Debug\netcoreapp3.1\SavingsAccountBalance.runtimeconfig.dev.json
+C:\VisualStudio Projects\SavingsAccountBalance\SavingsAccountBalance\bin\Debug\netcoreapp3.1\SavingsAccountBalance.dll
+C:\VisualStudio Projects\SavingsAccountBalance\SavingsAccountBalance\bin\Debug\netcoreapp3.1\SavingsAccountBalance.pdb
+C:\VisualStudio Projects\SavingsAccountBalance\SavingsAccountBalance\obj\Debug\netcoreapp3.1\SavingsAccountBalance.AssemblyInfoInputs.cache
+C:\VisualStudio Projects\SavingsAccountBalance\SavingsAccountBalance\obj\Debug\netcoreapp3.1\SavingsAccountBalance.AssemblyInfo.cs
+C:\VisualStudio Projects\SavingsAccountBalance\SavingsAccountBalance\obj\Debug\netcoreapp3.1\SavingsAccountBalance.csproj.CoreCompileInputs.cache
+C:\VisualStudio Projects\SavingsAccountBalance\SavingsAccountBalance\obj\Debug\netcoreapp3.1\SavingsAccountBalance.dll
+C:\VisualStudio Projects\SavingsAccountBalance\SavingsAccountBalance\obj\Debug\netcoreapp3.1\SavingsAccountBalance.pdb
+C:\VisualStudio Projects\SavingsAccountBalance\SavingsAccountBalance\obj\Debug\netcoreapp3.1\SavingsAccountBalance.genruntimeconfig.cache

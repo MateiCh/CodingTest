@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SecondLowestFrequency/1.0.0": {
+        "runtime": {
+          "SecondLowestFrequency.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SecondLowestFrequency/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

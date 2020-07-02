@@ -1,0 +1,13 @@
+C:\Users\matt9\source\repos\Coding Test\Coding Test\bin\Debug\netcoreapp3.1\Time Class.exe
+C:\Users\matt9\source\repos\Coding Test\Coding Test\bin\Debug\netcoreapp3.1\Time Class.deps.json
+C:\Users\matt9\source\repos\Coding Test\Coding Test\bin\Debug\netcoreapp3.1\Time Class.runtimeconfig.json
+C:\Users\matt9\source\repos\Coding Test\Coding Test\bin\Debug\netcoreapp3.1\Time Class.runtimeconfig.dev.json
+C:\Users\matt9\source\repos\Coding Test\Coding Test\bin\Debug\netcoreapp3.1\Time Class.dll
+C:\Users\matt9\source\repos\Coding Test\Coding Test\bin\Debug\netcoreapp3.1\Time Class.pdb
+C:\Users\matt9\source\repos\Coding Test\Coding Test\obj\Debug\netcoreapp3.1\TimeClass.csprojAssemblyReference.cache
+C:\Users\matt9\source\repos\Coding Test\Coding Test\obj\Debug\netcoreapp3.1\TimeClass.AssemblyInfoInputs.cache
+C:\Users\matt9\source\repos\Coding Test\Coding Test\obj\Debug\netcoreapp3.1\TimeClass.AssemblyInfo.cs
+C:\Users\matt9\source\repos\Coding Test\Coding Test\obj\Debug\netcoreapp3.1\TimeClass.csproj.CoreCompileInputs.cache
+C:\Users\matt9\source\repos\Coding Test\Coding Test\obj\Debug\netcoreapp3.1\Time Class.dll
+C:\Users\matt9\source\repos\Coding Test\Coding Test\obj\Debug\netcoreapp3.1\Time Class.pdb
+C:\Users\matt9\source\repos\Coding Test\Coding Test\obj\Debug\netcoreapp3.1\TimeClass.genruntimeconfig.cache
