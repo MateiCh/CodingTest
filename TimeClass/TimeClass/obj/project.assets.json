@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\VisualStudio Projects\\TimeClass\\TimeClass\\TimeClass.csproj",
+      "projectUniqueName": "C:\\VisualStudio Projects\\Coding Test\\TimeClass\\TimeClass\\TimeClass.csproj",
       "projectName": "Time Class",
-      "projectPath": "C:\\VisualStudio Projects\\TimeClass\\TimeClass\\TimeClass.csproj",
+      "projectPath": "C:\\VisualStudio Projects\\Coding Test\\TimeClass\\TimeClass\\TimeClass.csproj",
       "packagesPath": "C:\\Users\\matt9\\.nuget\\packages\\",
-      "outputPath": "C:\\VisualStudio Projects\\TimeClass\\TimeClass\\obj\\",
+      "outputPath": "C:\\VisualStudio Projects\\Coding Test\\TimeClass\\TimeClass\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

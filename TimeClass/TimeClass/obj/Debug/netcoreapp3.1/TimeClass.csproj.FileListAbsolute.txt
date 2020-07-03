@@ -11,3 +11,16 @@ C:\Users\matt9\source\repos\Coding Test\Coding Test\obj\Debug\netcoreapp3.1\Time
 C:\Users\matt9\source\repos\Coding Test\Coding Test\obj\Debug\netcoreapp3.1\Time Class.dll
 C:\Users\matt9\source\repos\Coding Test\Coding Test\obj\Debug\netcoreapp3.1\Time Class.pdb
 C:\Users\matt9\source\repos\Coding Test\Coding Test\obj\Debug\netcoreapp3.1\TimeClass.genruntimeconfig.cache
+C:\VisualStudio Projects\Coding Test\TimeClass\TimeClass\bin\Debug\netcoreapp3.1\Time Class.exe
+C:\VisualStudio Projects\Coding Test\TimeClass\TimeClass\bin\Debug\netcoreapp3.1\Time Class.deps.json
+C:\VisualStudio Projects\Coding Test\TimeClass\TimeClass\bin\Debug\netcoreapp3.1\Time Class.runtimeconfig.json
+C:\VisualStudio Projects\Coding Test\TimeClass\TimeClass\bin\Debug\netcoreapp3.1\Time Class.runtimeconfig.dev.json
+C:\VisualStudio Projects\Coding Test\TimeClass\TimeClass\bin\Debug\netcoreapp3.1\Time Class.dll
+C:\VisualStudio Projects\Coding Test\TimeClass\TimeClass\bin\Debug\netcoreapp3.1\Time Class.pdb
+C:\VisualStudio Projects\Coding Test\TimeClass\TimeClass\obj\Debug\netcoreapp3.1\TimeClass.csprojAssemblyReference.cache
+C:\VisualStudio Projects\Coding Test\TimeClass\TimeClass\obj\Debug\netcoreapp3.1\TimeClass.AssemblyInfoInputs.cache
+C:\VisualStudio Projects\Coding Test\TimeClass\TimeClass\obj\Debug\netcoreapp3.1\TimeClass.AssemblyInfo.cs
+C:\VisualStudio Projects\Coding Test\TimeClass\TimeClass\obj\Debug\netcoreapp3.1\TimeClass.csproj.CoreCompileInputs.cache
+C:\VisualStudio Projects\Coding Test\TimeClass\TimeClass\obj\Debug\netcoreapp3.1\Time Class.dll
+C:\VisualStudio Projects\Coding Test\TimeClass\TimeClass\obj\Debug\netcoreapp3.1\Time Class.pdb
+C:\VisualStudio Projects\Coding Test\TimeClass\TimeClass\obj\Debug\netcoreapp3.1\TimeClass.genruntimeconfig.cache

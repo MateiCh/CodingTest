@@ -73,17 +73,25 @@ namespace TimeClass
                 seconds += secondsAdded;
             else
             {
-                seconds += secondsAdded % 60;
-                if (seconds < 0)
+                if (secondsAdded < 0)
                 {
-                    minutes += -1 + secondsAdded / 60;
-                    seconds += 60;
+                    minutes += secondsAdded / 60;
+                    if (seconds < secondsAdded % 60 * -1)
+                    {
+                        minutes--;
+                        seconds += 60 + secondsAdded % 60;
+                    }
+                    else
+                        seconds += secondsAdded % 60;
+
                 }
                 if (minutes < 0)
                 {
                     hours += -1 + minutes / 60;
-                    minutes += 60;
+                    minutes = 60 + minutes % 60;
                 }
+                if (hours < 0)
+                    hours += 24;
             }
             NormalizeTime();
         }
