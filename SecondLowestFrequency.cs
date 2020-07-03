@@ -24,7 +24,7 @@ namespace SecondLowestFrequency
             foreach (var i in array)
             {
                 int freq = 0;
-                if (i != lowestValue && i != secondLowestValue) 
+                //if (i != lowestValue && i != secondLowestValue)
                     foreach (var j in array)
                         if (i == j) freq++;
                 if (freq != 0)
@@ -61,7 +61,8 @@ namespace SecondLowestFrequency
                 secondLowestValue = lowestValue;
                 lowestValue = i;
             }
-            else if (i < secondLowestValue)
+            else if (i < secondLowestValue && i != lowestValue)
+            //else if (i < secondLowestValue)
                 secondLowestValue = i;
         }
         //A faster way with collections

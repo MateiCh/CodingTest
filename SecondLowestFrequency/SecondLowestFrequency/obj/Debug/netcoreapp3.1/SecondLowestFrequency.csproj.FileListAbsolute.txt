@@ -11,3 +11,16 @@ C:\VisualStudio Projects\SecondLowestFrequency\SecondLowestFrequency\obj\Debug\n
 C:\VisualStudio Projects\SecondLowestFrequency\SecondLowestFrequency\obj\Debug\netcoreapp3.1\SecondLowestFrequency.dll
 C:\VisualStudio Projects\SecondLowestFrequency\SecondLowestFrequency\obj\Debug\netcoreapp3.1\SecondLowestFrequency.pdb
 C:\VisualStudio Projects\SecondLowestFrequency\SecondLowestFrequency\obj\Debug\netcoreapp3.1\SecondLowestFrequency.genruntimeconfig.cache
+C:\VisualStudio Projects\Coding Test\SecondLowestFrequency\SecondLowestFrequency\bin\Debug\netcoreapp3.1\SecondLowestFrequency.exe
+C:\VisualStudio Projects\Coding Test\SecondLowestFrequency\SecondLowestFrequency\bin\Debug\netcoreapp3.1\SecondLowestFrequency.deps.json
+C:\VisualStudio Projects\Coding Test\SecondLowestFrequency\SecondLowestFrequency\bin\Debug\netcoreapp3.1\SecondLowestFrequency.runtimeconfig.json
+C:\VisualStudio Projects\Coding Test\SecondLowestFrequency\SecondLowestFrequency\bin\Debug\netcoreapp3.1\SecondLowestFrequency.runtimeconfig.dev.json
+C:\VisualStudio Projects\Coding Test\SecondLowestFrequency\SecondLowestFrequency\bin\Debug\netcoreapp3.1\SecondLowestFrequency.dll
+C:\VisualStudio Projects\Coding Test\SecondLowestFrequency\SecondLowestFrequency\bin\Debug\netcoreapp3.1\SecondLowestFrequency.pdb
+C:\VisualStudio Projects\Coding Test\SecondLowestFrequency\SecondLowestFrequency\obj\Debug\netcoreapp3.1\SecondLowestFrequency.csprojAssemblyReference.cache
+C:\VisualStudio Projects\Coding Test\SecondLowestFrequency\SecondLowestFrequency\obj\Debug\netcoreapp3.1\SecondLowestFrequency.AssemblyInfoInputs.cache
+C:\VisualStudio Projects\Coding Test\SecondLowestFrequency\SecondLowestFrequency\obj\Debug\netcoreapp3.1\SecondLowestFrequency.AssemblyInfo.cs
+C:\VisualStudio Projects\Coding Test\SecondLowestFrequency\SecondLowestFrequency\obj\Debug\netcoreapp3.1\SecondLowestFrequency.csproj.CoreCompileInputs.cache
+C:\VisualStudio Projects\Coding Test\SecondLowestFrequency\SecondLowestFrequency\obj\Debug\netcoreapp3.1\SecondLowestFrequency.dll
+C:\VisualStudio Projects\Coding Test\SecondLowestFrequency\SecondLowestFrequency\obj\Debug\netcoreapp3.1\SecondLowestFrequency.pdb
+C:\VisualStudio Projects\Coding Test\SecondLowestFrequency\SecondLowestFrequency\obj\Debug\netcoreapp3.1\SecondLowestFrequency.genruntimeconfig.cache
